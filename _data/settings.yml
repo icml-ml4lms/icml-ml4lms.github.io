@@ -1,0 +1,280 @@
+#-------------------------------
+# Site Settings
+title: ML4LMS @ ICLR'24
+logo: # You can add own logo. For example '/images/logo.png'.
+description: ML4LMS Workshop @ ICLR'24
+color_scheme: light  # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Submission'
+      url: '/about/'
+    - title: 'Speakers'
+      url: '/work/'
+    - title: 'Agenda'
+      url: '/blog/'
+    - title: 'Organizers'
+#      submenu:
+#      - url: '/contact/'
+#        title: 'Steering Committee'
+#      - url: '/elements/'
+#        title: 'Organizing Committee'
+#      - url: '/elements/'
+#        title: 'Program Committee'
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: ML4LMS Workshop
+  author__bio: ML4LMS aims to highlight translational machine learning research in biology and chemistry for real-world applications in life and materials science
+  author__avatar: '/images/icml.png'
+
+social:
+#- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+#- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+#- {icon: "ion-logo-instagram", link: "https://instagram.com"}
+#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+#- {icon: "ion-logo-github", link: "https://github.com"}
+#- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero__title: ML4LMS Workshop 
+  hero__subtitle: July 26th, Vienna, Austria
+  hero__description: ML4LMS aims to highlight translational machine learning research in biology and chemistry for real-world applications in life and materials science
+  hero__image: "/images/vienna_austria.jpeg"
+
+
+#-------------------------------
+# Logos Settings
+logos:
+  enable: true
+  logos__title: Thank you to our sponsors!
+
+logo__items:
+  - name: Relation
+    link: "https://www.relationrx.com/"
+    image: "/images/relation_logo.png"
+
+  - name: NVIDIA
+    link: "https://www.nvidia.com/en-gb/industries/healthcare-life-sciences/"
+    image: "/images/nvidia_logo.png"
+
+
+  - name: MICROSOFT
+    link: "https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/"
+    image: "/images/msft_logo.png"
+
+
+  - name: SandBOXAQ
+    link: "https://www.sandboxaq.com/"
+    image: "/images/sandboxaq_logo.png"
+
+
+
+#-------------------------------
+# Newsletter
+mailchimp:
+  enable: true
+  mailchimp__identifier: https://bio.us22.list-manage.com/subscribe/post?u=c11b5cdfac933324ba6b81e53&amp;id=b2be655647&amp;f_id=0045cbe1f0 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__input__text: Your email address...
+  mailchimp__button__text: Register Interest
+
+
+#-------------------------------
+# Work Settings
+work:
+  enable: true
+  work__title: Featured Speakers
+  work__description: Leading researchers from Industry and Academia will speaking at the event
+
+
+#-------------------------------
+# Testimonials Section
+testimonials:
+  enable: true
+
+testimonial__title: Steering Committee
+testimonial__description:
+
+testimonial__items:
+  - name: "Pranam Chatterjee"
+    image: "/images/org/chatterjee.jpg"
+    designation: "Duke University"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "Short Desc"
+
+  - name: "Aviv Regev"
+    image: "/images/org/regev.jpg"
+    designation: "Industry | Genentech"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "FU Berlin"
+
+  - name: "Cecilia Clementi"
+    image: "/images/org/clementi.jpg"
+    designation: "FU Berlin"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "FU Berlin"
+
+  - name: "Christian Dallago"
+    image: "/images/org/dallago.JPG"
+    designation: "NVIDIA"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "FU Berlin"
+
+  - name: "Charlotte M. Deanne"
+    image: "/images/org/deane.jpg"
+    designation: "University of Oxford"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "FU Berlin"
+
+  - name: "Francesca Grisoni"
+    image: "/images/org/grisoni.jpg"
+    designation: "TU/Eindhoven"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "FU Berlin"
+
+  - name: "Peter Koo"
+    image: "/images/org/koo.jpg"
+    designation: "Cold Spring Harbor Laboratory"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "FU Berlin"
+
+  - name: "Ying Wai Li"
+    image: "/images/org/waili.jpg"
+    designation: "Cold Spring Harbor Laboratory"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "FU Berlin"
+
+  - name: "Rebecca K. Lindsay"
+    image: "/images/org/lindsay.jpg"
+    designation: "University of Michigan"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "FU Berlin"
+
+  - name: "Marwim Segler"
+    image: "/images/org/segler.jpg"
+    designation: "Microsoft Research"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "FU Berlin"
+
+  - name: "Nicholas Sofroniew"
+    image: "/images/org/sofroniew.jpg"
+    designation: "Chan Zuckerberg Initiative"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "FU Berlin"
+
+  - name: "Andrea Vollkamer"
+    image: "/images/org/vollkamer.jpg"
+    designation: "University of Saarland"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "FU Berlin"
+
+  - name: "Kevin Yang"
+    image: "/images/org/yang.jpg"
+    designation: "Industry | NVIDIA"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "MSRNE"
+
+
+# Ogranizers Section
+organizers:
+  enable: true
+
+organizers__title: Organizing Committee
+organizers__description:
+
+organizers__items:
+  - name: "Puck van Gerwen"
+    image: "/images/org/gerwen.jpg"
+    designation: "EPFL"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "Short Desc"
+
+  - name: "Charlie Harris"
+    image: "/images/org/harris.jpg"
+    designation: "EPFL"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "Short Desc"
+
+  - name: "Jinwoo Leem"
+    image: "/images/org/leem.jpg"
+    designation: "EPFL"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "Short Desc"
+
+  - name: "Umberto Lupo"
+    image: "/images/org/lupo.jpg"
+    designation: "EPFL"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "Short Desc"
+
+  - name: "Michael Pieler"
+    image: "/images/org/pieler.jpg"
+    designation: "EPFL"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "Short Desc"
+
+  - name: "Bruno Trentini"
+    image: "/images/org/trentini.png"
+    designation: "EPFL"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "Short Desc"
+
+  - name: "Olivia Viessmann"
+    image: "/images/org/viessmann.jpg"
+    designation: "EPFL"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "Short Desc"
+
+  - name: "Ellen Zhong"
+    image: "/images/org/zhong.jpg"
+    designation: "EPFL"
+    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
+    content : "Short Desc"
+#-------------------------------
+# Blog Section
+blog:
+  enable: true
+
+blog__settings:
+  blog__title: Agenda
+  blog__description: Morning sessions focus on Life Sciences. Afternoon Sessions focused on Material Sciences.
+
+
+#-------------------------------
+# Footer Settings
+footer__background__image: "/images/vienna_bg.png"
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: workshop@ml4lms.bio # Add your form_id
+  description: If you have any questions, please do reach out to the organizers # Add a description of your form
+
+# NOTE
+# Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: false
+  disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id

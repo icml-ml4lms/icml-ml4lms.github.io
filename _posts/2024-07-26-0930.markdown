@@ -1,0 +1,14 @@
+---
+layout: post
+title: 09:30-09:50
+description: Life Sciences 
+date: 2022-07-26 09:30:00 +0300
+image: '/images/morgan.png'
+#image_caption: 'Photo by [Chris Benson](https://unsplash.com/photos/UFen67VW5rU) on [Unsplash](https://unsplash.com/)'
+tags: [Life Sciences, LLM, 3D Conformer]
+---
+
+**Levine**
+
+## Talk Title
+Talk abstract
