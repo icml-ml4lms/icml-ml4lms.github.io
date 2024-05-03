@@ -12,13 +12,18 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Submission'
-      url: '/about/'
+    - title: 'Submissions'
+      url: '/submissions/'
+    - title: 'Prizes'
+      url: '/prizes/'
     - title: 'Speakers'
       url: '/work/'
     - title: 'Agenda'
       url: '/blog/'
     - title: 'Organizers'
+      url: '/committees/'
+
+
 #      submenu:
 #      - url: '/contact/'
 #        title: 'Steering Committee'
@@ -244,6 +249,15 @@ organizers__items:
     designation: "EPFL"
     link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
     content : "Short Desc"
+
+#-------------------------------
+# Program Committee Section
+programs:
+  enable: true
+
+programs__title: Program Committee
+programs__description:
+
 #-------------------------------
 # Blog Section
 blog:

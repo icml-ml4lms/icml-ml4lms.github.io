@@ -2,7 +2,7 @@
 layout: page
 title: 📣 Submissions are Open 
 description: Check the FAQ below before submitting to our workshop
-permalink: /about/
+permalink: /submissions/
 #image: '/images/01-2.jpg'
 # image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
 ---
@@ -15,7 +15,7 @@ permalink: /about/
 
 **Submission Link**: [ML4LMS via OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/ML4LMS&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)
 
-[Please use this Tempalte](https://docs.google.com/document/d/1NVDui2Fx2EgLm0rBNSQh9-390sa6JFmkbjNhGqPW4m8/edit#heading=h.jmbeny24wlay
+[Please use this template](https://docs.google.com/document/d/1NVDui2Fx2EgLm0rBNSQh9-390sa6JFmkbjNhGqPW4m8/edit#heading=h.jmbeny24wlay
 )
 
 ### What's the workshop topic?
@@ -90,6 +90,12 @@ Some submissions will be selected for a contributed 10 minute talk (see schedule
 Some submissions will be selected for prizes (TBD).
 
 Students from underrepresented communities submitting free text and accepted into the workshop can request financial assistance to attend ICML, which will be granted based on availability of funds.
+
+### Is that true we're eligible to win prizes?
+Yes! Thanks to NVIDIA's generous sponsorship we have 4 prizes
+
+Check the [Prizes Page](/prizes) for more details
+
 
 ### I still have questions!
 Reach out at: workshop {at} ml4lms.bio
