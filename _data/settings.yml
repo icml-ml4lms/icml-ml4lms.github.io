@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: ML4LMS @ ICLR'24
+title: ML4LMS 
 logo: # You can add own logo. For example '/images/logo.png'.
 description: ML4LMS Workshop @ ICLR'24
 color_scheme: light  # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -36,7 +36,7 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: ML4LMS Workshop
+  author__name: ML4LMS 
   author__bio: ML4LMS aims to highlight translational machine learning research in biology and chemistry for real-world applications in life and materials science
   author__avatar: '/images/icml.png'
 
@@ -56,8 +56,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: ML4LMS Workshop 
-  hero__subtitle: July 26th, Vienna, Austria
+  hero__title: ML4LMS Workshop
+  hero__subtitle: ICML'24 - July 26th, Vienna, Austria
   hero__description: ML4LMS aims to highlight translational machine learning research in biology and chemistry for real-world applications in life and materials science
   hero__image: "/images/vienna_austria.jpeg"
 
