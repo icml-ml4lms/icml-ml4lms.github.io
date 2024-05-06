@@ -1,0 +1,14 @@
+---
+layout: post
+schedule: 10:50-11:10
+date: 2022-07-26 09:00:00 +0300
+image: '/images/icml.png'
+title: Opening Remarks
+author: the Organizers
+description: Opening Remarks
+tags: [Organizers]
+order: 14
+---
+
+## Talk Title
+Talk abstract

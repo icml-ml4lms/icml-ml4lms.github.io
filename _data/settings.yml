@@ -103,7 +103,7 @@ mailchimp:
 work:
   enable: true
   work__title: Featured Speakers
-  work__description: Leading researchers from Industry and Academia will speaking at the event
+  work__description: Leading researchers from Industry and Academia will be at the workshop.
 
 
 #-------------------------------
@@ -112,143 +112,142 @@ testimonials:
   enable: true
 
 testimonial__title: Steering Committee
-testimonial__description:
+testimonial__description: Leading the workshops' vision and steering the community.
 
 testimonial__items:
-  - name: "Pranam Chatterjee"
-    image: "/images/org/chatterjee.jpg"
-    designation: "Duke University"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "Short Desc"
-
+  - name: "Andrea Vollkamer"
+    image: "/images/org/vollkamer.jpg"
+    designation: "University of Saarland"
+    link: "https://scholar.google.com/citations?user=ksE3fxQAAAAJ&hl=en"
+    content: "German bioinformatician & professor of Data-Driven Drug Design at Saarland Uni and associated researcher at Helmholtz Institute for Pharmaceutical Research Saarland."
+  
   - name: "Aviv Regev"
     image: "/images/org/regev.jpg"
-    designation: "Industry | Genentech"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "FU Berlin"
-
+    designation: "Genentech"
+    link: "https://en.wikipedia.org/wiki/Aviv_Regev"
+    content: "Computational biologist & Executive VP of Genentech Research and Early Development. Also a core member at Broad Institute and professor at Massachusetts Institute of Technology."
+  
   - name: "Cecilia Clementi"
     image: "/images/org/clementi.jpg"
     designation: "FU Berlin"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "FU Berlin"
+    link: "https://scholar.google.com/citations?user=0na1SpQAAAAJ&hl=en"
+    content :  "Professor of Chemistry & Biomolecular Engineering at Rice University. She is also a Senior Scientist at the Center for Theoretical Biological Physics and co-Director of the National Science Foundation Molecular Sciences Software Institute."
+
+  - name: "Charlotte M. Deanne, MBE"
+    image: "/images/org/deane.jpg"
+    designation: "University of Oxford"
+    link: "https://en.wikipedia.org/wiki/Charlotte_Deane"
+    content :  "Prof. of Structural Bioinformatics at University of Oxford and former Head of Statistics. Currently serving as the Executive Chair of the Engineering and Physical Sciences Research Council."
 
   - name: "Christian Dallago"
     image: "/images/org/dallago.JPG"
-    designation: "NVIDIA"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "FU Berlin"
-
-  - name: "Charlotte M. Deanne"
-    image: "/images/org/deane.jpg"
-    designation: "University of Oxford"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "FU Berlin"
+    designation: "NVIDIA, TU Munich"
+    link: "https://scholar.google.com/citations?user=4q0fNGAAAAAJ&hl=en"
+    content : "Chris is a computer scientist turned bioinformatician focusing on protein sequence representation learning. He is dedicated to addressing problems with scarce data, particularly in designing new proteins for therapeutic or industrial applications."
 
   - name: "Francesca Grisoni"
     image: "/images/org/grisoni.jpg"
     designation: "TU/Eindhoven"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "FU Berlin"
+    link: "https://scholar.google.com/citations?user=qw2NmGsAAAAJ&hl=en"
+    content : "Assistant Professor in the Department of Biomedical Engineering at TU/Eindhoven, leading the Molecular Machine Learning team. Her research primarily centres on developing novel artificial intelligence methods for drug discovery, integrating computation and experimental validation in the wet-lab."
 
-  - name: "Peter Koo"
-    image: "/images/org/koo.jpg"
-    designation: "Cold Spring Harbor Laboratory"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "FU Berlin"
-
-  - name: "Ying Wai Li"
-    image: "/images/org/waili.jpg"
-    designation: "Cold Spring Harbor Laboratory"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "FU Berlin"
-
-  - name: "Rebecca K. Lindsay"
-    image: "/images/org/lindsay.jpg"
-    designation: "University of Michigan"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "FU Berlin"
+  - name: "Kevin Yang"
+    image: "/images/org/yang.jpg"
+    designation: "Microsoft Research"
+    link: "https://scholar.google.com/citations?user=mq-Vzk8AAAAJ&hl=en"
+    content : "Kevin Yang is a senior researcher at Microsoft Research in Cambridge, MA, focusing on problems at the intersection of machine learning and biology. He obtained his PhD from Caltech under Frances Arnold's supervision, specializing in applying machine learning to protein engineering."
 
   - name: "Marwim Segler"
     image: "/images/org/segler.jpg"
     designation: "Microsoft Research"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "FU Berlin"
+    link: "https://scholar.google.co.uk/citations?user=imsL94QAAAAJ&hl=en"
+    content :  "Marwin Segler is a team lead at Microsoft Research AI4Science, specialising in chemistry, drug discovery, and machine learning. Prior to his current role, he worked at BenevolentAI (London) and obtained his PhD in chemistry from the University of Muenster."
 
   - name: "Nicholas Sofroniew"
     image: "/images/org/sofroniew.jpg"
     designation: "Chan Zuckerberg Initiative"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "FU Berlin"
+    link: "https://scholar.google.com/citations?user=lHhmCFAAAAAJ&hl=en"
+    content : "Nicholas leads the imaging technology team at the Chan Zuckerberg Initiative, focused on developing new imaging technology for measuring biology in action. He has a background in systems neuroscience and mathematics, and was previously a researcher at the Janelia Research Campus."
+    
+  - name: "Peter Koo"
+    image: "/images/org/koo.jpg"
+    designation: "Cold Spring Harbor Laboratory"
+    link: "https://scholar.google.com/citations?user=zoAsQGwAAAAJ&hl=en"
+    content : "Peter K. Koo is an academic researcher at Cold Spring Harbor Laboratory, with contributions to interpretability & medicine research. He has an h-index of 13, co-authored 39 publications receiving 579 citations. Previous affiliations include Loyola Marymount University & Yale University."
 
-  - name: "Andrea Vollkamer"
-    image: "/images/org/vollkamer.jpg"
-    designation: "University of Saarland"
+  - name: "Pranam Chatterjee"
+    image: "/images/org/chatterjee.jpg"
+    designation: "Duke University"
     link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "FU Berlin"
+    content : "Assistant Professor of Biomedical Engineering and Computer Science at Duke University. His research focuses on generative AI and protein engineering for applications in genome, proteome, and cell engineering. A PhD graduate of the MIT Media Lab, he developed robust genome editing technologies using CRISPR enzymes."
 
-  - name: "Kevin Yang"
-    image: "/images/org/yang.jpg"
-    designation: "Industry | NVIDIA"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "MSRNE"
+  - name: "Rebecca K. Lindsey"
+    image: "/images/org/lindsay.jpg"
+    designation: "University of Michigan"
+    link: "https://scholar.google.com/citations?user=S1kLwmQAAAAJ&hl=en"
+    content : "Rebecca K. Lindsey is an Assistant Professor of Chemical Engineering at the University of Michigan. She also holds courtesy appointments in Applied Physics, Nuclear Engineering and Radiological Sciences, and Materials Science. Prior to joining UM, Dr. Lindsey led various research teams within the Energetic Materials Center at Lawrence Livermore National Laboratory."
 
+  - name: "Ying Wai Li"
+    image: "/images/org/waili.jpg"
+    designation: "Los Alamos National Laboratory"
+    link: "https://scholar.google.com/citations?user=6lSSrkEAAAAJ&hl=en"
+    content : "a computational physicist, delves into algorithms and high-performance computing, exploring material properties and optimizing computer simulations. She's a specialist in thermodynamics and algorithm design, advancing research in both physics and computer science."
 
 # Ogranizers Section
 organizers:
   enable: true
 
 organizers__title: Organizing Committee
-organizers__description:
+organizers__description: Dedicated to community outreach, workshop logistics, and managing submissions & reviews.
 
 organizers__items:
   - name: "Puck van Gerwen"
     image: "/images/org/gerwen.jpg"
     designation: "EPFL"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "Short Desc"
+    link: "https://www.linkedin.com/in/puckvg/"
+    content: "PhD student developing machine-learning models for molecules and chemical reactions"
 
   - name: "Charlie Harris"
     image: "/images/org/harris.jpg"
-    designation: "EPFL"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "Short Desc"
+    designation: "University of Cambridge"
+    link: "https://www.linkedin.com/in/charlie-harris-388285156/"
+    content: "PhD Student at the Cambridge Centre for AI in Medicine. Working in Geometric Deep Learning and Structural Biology."
 
   - name: "Jinwoo Leem"
     image: "/images/org/leem.jpg"
-    designation: "EPFL"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "Short Desc"
+    designation: "Alchemab Therapeutics"
+    link: "https://www.linkedin.com/in/jleem/"
+    content: "Director of Machine Learning Alchemab Therapeutics. DPhil in Bioinformatics by the University of Oxford."
 
   - name: "Umberto Lupo"
     image: "/images/org/lupo.jpg"
     designation: "EPFL"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "Short Desc"
+    link: "https://www.linkedin.com/in/ulupo/"
+    content : "Post-doctoral Researcher, machine learning & computational biology. PhD Theoretical and Mathematical Physics"
 
   - name: "Michael Pieler"
     image: "/images/org/pieler.jpg"
-    designation: "EPFL"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "Short Desc"
+    designation: "Stability AI"
+    link: "https://www.linkedin.com/in/michaelpieler/"
+    content: "LLM Research at Stability AI. Deep learning engineer with a biotechnology background."
 
   - name: "Bruno Trentini"
     image: "/images/org/trentini.png"
-    designation: "EPFL"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "Short Desc"
+    designation: "NVIDIA"
+    link: "https://www.linkedin.com/in/btrentini/"
+    content: "Global Life Sciences Research Alliances Lead at NVIDIA. Interested in Geometric Deep Learning and Biomolecular design."
 
   - name: "Olivia Viessmann"
     image: "/images/org/viessmann.jpg"
-    designation: "EPFL"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "Short Desc"
+    designation: "Flagship Pioneering"
+    link: "https://www.linkedin.com/in/olivia-viessmann-75b00b156/"
+    content: "Senior Machine Learning Scientist in the Pioneering Intelligence team, with a focus on biotech applications. "
 
   - name: "Ellen Zhong"
     image: "/images/org/zhong.jpg"
-    designation: "EPFL"
-    link: "https://scholar.google.co.uk/citations?user=XExgv9YAAAAJ&hl=en"
-    content : "Short Desc"
+    designation: "Princeton University"
+    link: "https://www.linkedin.com/in/zhonge/"
+    content: "Assistant Professor of Computer Science at Princeton University. Interested in the Intersection of AI and Biology."
 
 #-------------------------------
 # Program Committee Section
@@ -256,7 +255,8 @@ programs:
   enable: true
 
 programs__title: Program Committee
-programs__description:
+programs__description: Contributing to defining speakers, sponsors, the website and reviewing submissions.
+
 
 #-------------------------------
 # Blog Section
@@ -265,7 +265,9 @@ blog:
 
 blog__settings:
   blog__title: Agenda
-  blog__description: Morning sessions focus on Life Sciences. Afternoon Sessions focused on Material Sciences.
+  blog__description: Full agenda includes panels, poster sessions, and talks in ML for Life and Material Science.
+
+
 
 
 #-------------------------------

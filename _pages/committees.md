@@ -7,9 +7,9 @@ permalink: /committees/
 #image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
 ---
 
-## Steering Committe
 
-
-## Organizing Comittee
-
-## Program Committee
+| Name     | Affiliation|
+|----------|----------|
+| Row 1    | Row 1    |
+| Row 2    | Row 2    |
+| Row 3    | Row 3    |

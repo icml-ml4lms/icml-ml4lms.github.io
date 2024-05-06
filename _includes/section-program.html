@@ -4,12 +4,13 @@
   <section class="section testimonials animate">
     <div class="row">
       <div class="col col-12">
-
         <div class="section__info">
           <div class="section__head">
             <h2 class="section__title">{{ site.data.settings.programs__title }}</h2>
-            <p> Thank you for all those who are contributing to the success of this workshop</p>
           </div>
+          {% if site.data.settings.organizers__description %}
+           <p class="section__description">{{ site.data.settings.programs__description }}</p>
+          {% endif %}
         </div>
 
         <div class="table-container">
@@ -20,7 +21,7 @@
             <tr><td>Alishba Imran</td><td>UC Berkeley</td></tr>
             <tr><td>Amir Shanehsazzadeh</td><td>Absci</td></tr>
             <tr><td>Amy X. Lu</td><td>UC Berkeley</td></tr>
-            <tr><td>Anna Cichonska</td><td></td></tr>
+            <tr><td>Anna Cichonska</td><td>Harmonic Discovery</td></tr>
             <tr><td>Aoran Wang</td><td>U Luxembourg</td></tr>
             <tr><td>Arvind Ramanathan</td><td>Argonne</td></tr>
             <tr><td>Chaitanya K. Joshi</td><td>University of Cambridge</td></tr>
@@ -49,7 +50,7 @@
             <tr><td>Rayees Rahman</td><td>Harmonic Discovery</td></tr>
             <tr><td>Rico Meinl</td><td>retro.bio</td></tr>
             <tr><td>Rohit Singh</td><td>Duke</td></tr>
-            <tr><td>Ryan Theisen</td><td></td></tr>
+            <tr><td>Ryan Theisen</td><td>Harmonic Discovery</td></tr>
             <tr><td>Stanislaw Jastrzebski</td><td>MoleculeOne</td></tr>
             <tr><td>Therence Bois</td><td>Valence Labs</td></tr>
             <tr><td>Tuan Le</td><td>Pfizer</td></tr>
