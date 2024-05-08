@@ -43,8 +43,13 @@ permalink: /submissions/
 </table>
 </div>
 
+**Attention**
+If you select the Overleaf template, you will need to download the project zip file for now and upload it as a new project. Overleaf moderators will publish the official template in the coming days.
+
+
+
 ### What's the workshop topic?
-ML4LMS aims to highlight translational machine learning research in biology and chemistry for real-world applications in life and materials science. The goal is to bridge theoretical advances with practical applications and connect academic and industry researchers.
+> ML4LMS aims to highlight translational machine learning research in biology and chemistry for real-world applications in life and materials science. The goal is to bridge theoretical advances with practical applications and connect academic and industry researchers.
 
 We welcome a broad range of submissions, from dataset curation, analysis and benchmarking work highlighting opportunities and pitfalls of current ML applications in health and materials, to novel models and algorithms unlocking unprecedented capabilities.
 
