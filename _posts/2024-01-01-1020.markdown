@@ -2,10 +2,10 @@
 layout: post
 schedule: 10:20-10:50
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
-title: Opening Remarks
+image: '/images/open_review.jpeg'
+title: Contributed Talks
 author: the Organizers
-description: Opening Remarks
+description: Our committees will select three submissions to contribute talks on ML and Health (each speaker will get 10 minutes talking time)
 tags: [Organizers]
 order: 15
 ---

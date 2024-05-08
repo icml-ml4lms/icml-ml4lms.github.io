@@ -2,10 +2,10 @@
 layout: post
 schedule: 16:00-16:40
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
-title: Opening Remarks
+image: '/images/panel.png'
+title: Panel - Material Science
 author: the Organizers
-description: Opening Remarks
+description: Confirmed Panellists - David Pfau (DeepMind), Kevin Jablonka (Helmholtz Institute for Polymers in Energy Applications), Philippe Schwaller (EPFL), Sebastian Pattinson (Matta, University of Cambridge)
 tags: [Organizers]
 order: 4
 ---

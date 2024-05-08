@@ -81,6 +81,21 @@
   }
 }
 
+.article__schedule {
+  margin-bottom: 16px;
+  font-size: 22px;
+
+  a {
+    &:hover {
+      box-shadow: 0 -1px 0 0 var(--blue-gray) inset, 0 -3px 0 0 var(--blue-gray) inset;
+    }
+  }
+
+  @media only screen and (max-width: $desktop) {
+    font-size: 22px;
+  }
+}
+
 .article__title {
   margin-bottom: 16px;
   font-size: 28px;

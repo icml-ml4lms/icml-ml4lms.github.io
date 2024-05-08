@@ -2,11 +2,11 @@
 layout: post
 schedule: 14:40-15:10
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
-title: Opening Remarks
+image: '/images/open_review.jpeg'
+title: Contributed Talks
 author: the Organizers
-description: Opening Remarks
-tags: [Organizers]
+description: Our committees will select three submissions to contribute talks on ML and Materials (each speaker will get 10 minutes talking time)
+tags: [Material Sciences]
 order: 8
 ---
 

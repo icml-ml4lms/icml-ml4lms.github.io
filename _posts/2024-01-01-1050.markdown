@@ -2,10 +2,10 @@
 layout: post
 schedule: 10:50-11:10
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
-title: Opening Remarks
+image: '/images/jose.jpg'
+title: Jose Miguel Hernandez-Lobato
 author: the Organizers
-description: Opening Remarks
+description: University of Cambridge
 tags: [Organizers]
 order: 14
 ---

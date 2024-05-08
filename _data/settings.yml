@@ -19,7 +19,7 @@ menu__settings:
     - title: 'Speakers'
       url: '/work/'
     - title: 'Agenda'
-      url: '/blog/'
+      url: '/agenda/'
     - title: 'Organizers'
       url: '/committees/'
 

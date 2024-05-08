@@ -2,10 +2,10 @@
 layout: post
 schedule: 12:15-14:00
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
-title: Opening Remarks
+image: '/images/poster.png'
+title: Lunch Break and Poster Session
 author: the Organizers
-description: Opening Remarks
+description: Lunch Break and Poster Sessions
 tags: [Organizers]
 order: 11
 ---

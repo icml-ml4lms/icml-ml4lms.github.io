@@ -2,13 +2,13 @@
 layout: post
 schedule: 09:00-09:30
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
-title: Opening Remarks
-author: the Organizers
-description: Opening Remarks
-tags: [Organizers]
+image: '/images/laksh.jpg' 
+title: Laksh Aithani
+author: Laksh Aithani
+description: CHARM Therapeutics
+tags: [Life Sciences, Industry, Keynote]
 order: 19
 ---
 
-## Talk Title
-Talk abstract
+## Further details coming soon
+Further details coming soon

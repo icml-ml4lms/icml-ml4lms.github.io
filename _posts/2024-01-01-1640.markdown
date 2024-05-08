@@ -2,11 +2,11 @@
 layout: post
 schedule: 16:40-17:00
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
-title: Opening Remarks
+image: '/images/rianne.png'
+title: Rianne van den Berg
 author: the Organizers
-description: Opening Remarks
-tags: [Organizers]
+description: Microsoft Research
+tags: [Material Science, Closing Keynote]
 order: 3
 ---
 

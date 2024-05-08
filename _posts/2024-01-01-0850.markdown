@@ -10,5 +10,5 @@ tags: [Organizers]
 order: 20
 ---
 
-## Talk Title
-Talk abstract
+## Opening Remarks
+In this session the organizers will welcome attendees, outline the agenda for the day, housekepping announcements. 

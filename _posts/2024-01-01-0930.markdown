@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
-title: Opening Remarks
-author: the Organizers
-description: Opening Remarks
-tags: [Organizers]
+image: '/images/morgan.png'
+author: Morgan Levine
+title: Morgan Levine
+description: Altos Labs
+tags: [Life Sciences]
 order: 18
 ---
 

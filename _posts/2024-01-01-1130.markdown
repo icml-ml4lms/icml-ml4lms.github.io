@@ -2,10 +2,10 @@
 layout: post
 schedule: 11:30-12:15
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
-title: Opening Remarks
-author: the Organizers
-description: Opening Remarks
+image: '/images/panel.png'
+author: the Organizers]
+title: Panel
+description: Confirmed panelists include Michael Bronstein (VantAI, University of Oxford), Andrew Phillips (Sanofi), Sepp Hochreiter (Johannes Kepler University Linz)
 tags: [Organizers]
 order: 12
 ---

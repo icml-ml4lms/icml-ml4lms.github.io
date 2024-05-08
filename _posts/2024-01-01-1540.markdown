@@ -3,10 +3,10 @@ layout: post
 schedule: 15:40-16:00
 date: 2022-07-26 09:00:00 +0300
 image: '/images/icml.png'
-title: Opening Remarks
-author: the Organizers
-description: Opening Remarks
-tags: [Organizers]
+title: TBC
+author: TBC
+description: TBC
+tags: [Material Sciences]
 order: 5
 ---
 

@@ -2,10 +2,10 @@
 layout: post
 schedule: 15:10-15:20
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
-title: Opening Remarks
+image: '/images/coffee.png'
+title: Coffee Break
 author: the Organizers
-description: Opening Remarks
+description: Coffee Break sponsored by TBC
 tags: [Organizers]
 order: 7
 ---

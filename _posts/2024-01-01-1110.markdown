@@ -3,9 +3,9 @@ layout: post
 schedule: 11:10-11:30
 date: 2022-07-26 09:00:00 +0300
 image: '/images/icml.png'
-title: Opening Remarks
+title: TBC
 author: the Organizers
-description: Opening Remarks
+description: TBC
 tags: [Organizers]
 order: 13
 ---

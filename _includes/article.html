@@ -16,6 +16,9 @@
       {% endfor %}
     </div>
     {% endif %}
+    <h3 class="article__schedule">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{post.schedule}}</a>
+    </h3>
     <h3 class="article__title">
       <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
     </h3>
