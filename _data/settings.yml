@@ -38,7 +38,7 @@ menu__settings:
 author:
   author__name: ML4LMS 
   author__bio: ML4LMS aims to highlight translational machine learning research in biology and chemistry for real-world applications in life and materials science
-  author__avatar: '/images/icml.png'
+  author__avatar: '/images/logo_chem.png'
 
 social:
 #- {icon: "ion-logo-twitter", link: "https://twitter.com"}
