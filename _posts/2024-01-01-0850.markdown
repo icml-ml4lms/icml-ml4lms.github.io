@@ -2,7 +2,7 @@
 layout: post
 schedule: 08:50-09:00
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
+#image: '/images/icml.png'
 title: Opening Remarks
 author: the Organizers
 description: Opening Remarks
