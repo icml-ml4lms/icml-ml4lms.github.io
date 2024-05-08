@@ -13,10 +13,35 @@ permalink: /submissions/
 
 **Notification**: Monday, June 17th, 2024
 
-**Submission Link**: [ML4LMS via OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/ML4LMS&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)
+**Submission is done via** the [ML4LMS Venue on OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/ML4LMS&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)
 
-[Please use this template](https://docs.google.com/document/d/1NVDui2Fx2EgLm0rBNSQh9-390sa6JFmkbjNhGqPW4m8/edit#heading=h.jmbeny24wlay
-)
+
+<div class="table-container">
+<table style="width: 100%; text-align: center;">
+    <tr style="font-weight: bold; color: white; background-color: black;">
+        <td>Overleaf Template</td>
+        <td>Google Docs Template</td>
+        <td> 🚀 Submission Link</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.overleaf.com/project/660bf9a34e842101b8af63ed">
+                <img src="/images/overleaf.png" style="all: unset; width: 35%; transition: filter 0.3s;" onmouseover="this.style.filter='grayscale(100%)'" onmouseout="this.style.filter='none'">
+            </a> 
+        </td>
+        <td>
+            <a href="https://docs.google.com/document/d/1NVDui2Fx2EgLm0rBNSQh9-390sa6JFmkbjNhGqPW4m8/edit#heading=h.jmbeny24wlay">
+                <img src="/images/gdocs.png" style="all: unset; width: 20%; transition: filter 0.3s;" onmouseover="this.style.filter='grayscale(100%)'" onmouseout="this.style.filter='none'">
+            </a>
+        </td>
+                <td>
+            <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/ML4LMS&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">
+                <img src="/images/open_review.jpeg" style="all: unset; width: 20%; transition: filter 0.3s;" onmouseover="this.style.filter='grayscale(100%)'" onmouseout="this.style.filter='none'">
+            </a>
+        </td>
+    </tr>
+</table>
+</div>
 
 ### What's the workshop topic?
 ML4LMS aims to highlight translational machine learning research in biology and chemistry for real-world applications in life and materials science. The goal is to bridge theoretical advances with practical applications and connect academic and industry researchers.
@@ -47,6 +72,15 @@ Do it via the [ML4LMS venue via OpenReview](https://openreview.net/group?id=ICML
 
 - For free text submissions, please adhere to the guidelines below. We provide both a Google Docs and LaTeX template for you to base your free text submission on. Please do not alter the style in these templates – in particular, do not compress the paper format by reducing the vertical spaces or the page margins.
 
+### What can I get out of submitting?
+All accepted submissions (including free text) can submit a poster for in-person and online presentation. Accepted posters and/or free text will be collated in an informal proceeding.
+
+Some submissions will be selected for a contributed 10 minute talk (see schedule).
+
+Some submissions will be selected for prizes (TBD).
+
+Students from underrepresented communities submitting free text and accepted into the workshop can request financial assistance to attend ICML, which will be granted based on availability of funds.
+
 ### Free text submission guidelines
 - Initial submissions can be up to 5 pages long. This limit excludes data availability statements, references and appendices, which can take unlimited space. But the reviewers are not required to read appendices. Accepted papers can be up to 6 pages long, not including acknowledgements, data availability statements, references and appendices.
 
@@ -59,8 +93,6 @@ Do it via the [ML4LMS venue via OpenReview](https://openreview.net/group?id=ICML
 - Do not alter the style templates provided below; in particular, do not compress the paper format by reducing the vertical spaces or the page margins.
 
 - Keep your abstract brief and self-contained, one paragraph and roughly 4–6 sentences / 250 words.
-
-
 
 ### What about the camera ready version?
 You will have the opportunity to submit a "camera ready" version of your poster/free text after notification of acceptance.
@@ -81,15 +113,6 @@ Yes! We are looking for helping hands (all levels of seniority) in reviewing sub
 
 ### What's the reviewing process?
 We aim to have 3-4 people look at each submission. Approve/reject recommendations are mandatory, but we encourage comments and more detailed feedback.
-
-### What can I get out of submitting?
-All accepted submissions (including free text) can submit a poster for in-person and online presentation. Accepted posters and/or free text will be collated in an informal proceeding.
-
-Some submissions will be selected for a contributed 10 minute talk (see schedule).
-
-Some submissions will be selected for prizes (TBD).
-
-Students from underrepresented communities submitting free text and accepted into the workshop can request financial assistance to attend ICML, which will be granted based on availability of funds.
 
 ### Is that true we're eligible to win prizes?
 Yes! Thanks to NVIDIA's generous sponsorship we have 4 prizes
