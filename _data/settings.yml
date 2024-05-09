@@ -69,23 +69,30 @@ logos:
   logos__title: Thank you to our sponsors!
 
 logo__items:
-  - name: Relation
+  - name: RELATION
     link: "https://www.relationrx.com/"
     image: "/images/relation_logo.png"
+    size: 100
+
+  - name: IQCAPITAL
+    link: "https://www.iqcapital.vc/"
+    image: "/images/iq_capital.png"
+    size: 100
 
   - name: NVIDIA
     link: "https://www.nvidia.com/en-gb/industries/healthcare-life-sciences/"
     image: "/images/nvidia_logo.png"
-
+    size: 100
 
   - name: MICROSOFT
     link: "https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/"
     image: "/images/msft_logo.png"
+    size: 100
 
-
-  - name: SandBOXAQ
+  - name: SANDBOXAQ
     link: "https://www.sandboxaq.com/"
     image: "/images/sandboxaq_logo.png"
+    size: 100
 
 
 

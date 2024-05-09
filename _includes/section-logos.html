@@ -13,7 +13,12 @@
           {% for logo in site.data.settings.logo__items %}
           <li class="logos__item">
             <a href="{{ logo.link }}" class="logos__link" rel="noopener">
-              <img src="{{ logo.image }}" alt="{{ logo.name }}" class="logos__image">
+              {% if logo.name == "IQCAPITAL" %}
+              <img src="{{ logo.image }}" alt="{{ logo.name }}" class="logos__image" style="height: 72px;">
+              {% else %}
+                <img src="{{ logo.image }}" alt="{{ logo.name }}" class="logos__image">
+              {% endif %}
+            
             </a>
           </li>
           {% endfor %}
