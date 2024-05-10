@@ -60,11 +60,36 @@
 }
 
 .hero__subscribe {
-  margin-top: 28px;
 
-  .subscribe-form {
+  .form-row {
     display: flex;
-    flex-wrap: wrap;
+    align-items: center; /* Ensure label and checkbox are aligned */
+    justify-content: center; /* Centralize elements horizontally */
+    margin: 10px; /* Uniform spacing between rows */
+    width: 100%; /* Make each row take the full width available */
+  }
+  
+  .subscribe-form {
+    max-width: 500px; /* Set a maximum width for the form */
+    margin: auto; /* Center the form in the page */
+    padding: 10px; /* Add padding around the form */
+    box-sizing: border-box; /* Include padding in width calculation */
+  }
+
+  input, button {
+    width: 100%; /* Set a uniform width for all input fields and button */
+    padding: 10px; /* Add padding for better visual appearance */
+    box-sizing: border-box; /* Include padding in width calculation */
+  }
+  input[type="checkbox"] {
+    width: 25px; /* Increase the size of the checkbox */
+    height: 25px; /* Make the checkbox square and larger */
+    margin-left: 10px; /* Space between the label and checkbox */
+  }
+
+  label {
+    display: flex;
+    align-items: center; /* Align text and checkbox vertically */
   }
 
   .subscribe-email {

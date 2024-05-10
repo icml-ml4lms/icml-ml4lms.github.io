@@ -53,7 +53,7 @@
           <div style="border: 0px solid rgb(39, 11, 152); background-color: rgba(255, 255, 255, 0.605); border-radius: 12px; padding: 3%; margin: 2%;">
             <!-- First Div for Announcements -->
             <div style="text-align: left; margin-bottom: 0px;">
-                <h3>📣  Latest Announcements </h3>
+                <h3>📣  Important Announcements </h3>
             </div>
         
             <!-- Second Div with the first link -->
@@ -61,12 +61,13 @@
               <ul>
                 <li><a href="{{ '/submissions' | relative_url }}" class="myLink">
                   Submissions open until May 23rd 2024</a></li>
+            <li><a href="https://forms.gle/yEzYq4g9xge5eRAMA" class="myLink">
+              Register your interest in volunteering to review papers</a></li>
               <li><a href="{{ '/prizes' | relative_url }}" class="myLink">
                 Check out the list of prizes for best papers & reviewers 
             </a></li>
-            <li><a href="mailto:workshop@ml4lms.bio" class="myLink">
-              Register your interest in volunteering to review papers</a></li>
               </ul>
+              
             </div>
 
         </div>
@@ -74,6 +75,37 @@
 
           {% if site.data.settings.mailchimp.enable == true %}
           <div class="hero__subscribe">
+
+            <!DOCTYPE html>
+  
+            <h3> Interested in attending our workshop?</h3>
+            
+            <form id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate class="subscribe-form validate" action="https://script.google.com/macros/s/AKfycbweKWTluJUb-MAmJdOEZjp76UZjv_gCcJZGM-_8vjNkzdBhwPafZR_b56rMU0oMkYq6/exec" method="POST">
+              
+              <div class="form-row">
+                <label class="screen-reader-text" for="email">Email:</label>
+                <input class="subscribe-email required email" type="email" name="email" id="email" placeholder="Your full name...">
+              </div>
+            
+              <div class="form-row">
+                <label class="screen-reader-text" for="name">Your name:</label>
+                <input class="subscribe-email required email" type="text" name="name" id="name" required placeholder="Your email (optional)...">
+              </div>
+                
+              <div class="form-row">
+                <label class="hero__description" for="attendance">I am attending in person</label>
+                <input type="checkbox" id="attendance" name="attendance" value="Yes">
+              </div>
+            
+              <div class="form-row">
+                <button class="button button--primary subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{
+                  site.data.settings.mailchimp.mailchimp__button__text }}</button>
+              </div>
+              <p id="message" style="display:none;"></p> 
+            </form>
+            
+
+<!-- 
             <h3> Interested in attending our workshop?</h3>
               <form class="subscribe-form validate" action="https://bio.us22.list-manage.com/subscribe/post?u=c11b5cdfac933324ba6b81e53&amp;id=b2be655647&amp;f_id=0045cbe1f0" method="post" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
                 <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
@@ -85,7 +117,8 @@
         </div>
 
 
-          {% endif %}
+          {% endif %}-->
+          </div>
         </div>
 
         
