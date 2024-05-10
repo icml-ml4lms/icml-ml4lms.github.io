@@ -11,9 +11,9 @@ permalink: /prizes/
 <div class="table-container">
 <table style="text-align: center;">
     <tr style="font-weight: bold; color: white; background-color: black;">
-        <td>⭐ Best Paper Overall</td>
-        <td>Best Paper Life Sciences</td>
-        <td>Best Paper Material Sciences</td>
+        <td>⭐ Most Ambitious Submission</td>
+        <td> Life Sciences Highlight </td>
+        <td> Material Sciences Highlight</td>
         <td>Top 3 Reviewers</td>
     </tr>
     <tr>
@@ -39,9 +39,11 @@ permalink: /prizes/
 <div class="table-container">
   <table>
     <tr><th>Award to</th><th>Prize</th><th>Image</th></tr>
-    <tr><td>Best Paper Overall</td><td>NVIDIA RTX 6000 Ada Generation Graphics Card </td><td><img src="/images/A6000.png" width="50%"></td></tr>
-    <tr><td>Best Paper - Life Sciences</td><td>RTX 2000 Ada Generation Graphics Card - NVIDIA</td><td><img src="/images/A2000.png" width="50%"></td></tr>
-    <tr><td>Best Paper - Material Sciences</td><td>RTX 2000 Ada Generation Graphics Card - NVIDIA</td><td><img src="/images/A2000.png" width="50%"></td></tr>
+    <tr><td>Most Ambitious Submission</td><td>NVIDIA RTX 6000 Ada Generation Graphics Card </td><td><img src="/images/A6000.png" width="50%"></td></tr>
+    <tr><td>Translational Life Science highlight
+</td><td>RTX 2000 Ada Generation Graphics Card - NVIDIA</td><td><img src="/images/A2000.png" width="50%"></td></tr>
+    <tr><td>Translational Material Science highlight
+</td><td>RTX 2000 Ada Generation Graphics Card - NVIDIA</td><td><img src="/images/A2000.png" width="50%"></td></tr>
     <tr><td>Top 3 Reviewers</td><td> 2x DLI Institute Workshops</td><td><img src="/images/dli_logo.png" width="50%"></td></tr>
   </table>
 </div>
