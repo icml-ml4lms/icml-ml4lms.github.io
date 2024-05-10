@@ -9,7 +9,7 @@ permalink: /submissions/
 
 **Submissions Open**: Monday, April 15th, 2024
 
-**Submissions Close**: Wednesday, May 15th, 2024
+**Submissions Close**: Wednesday, May 23rd, 2024
 
 **Notification**: Monday, June 17th, 2024
 
