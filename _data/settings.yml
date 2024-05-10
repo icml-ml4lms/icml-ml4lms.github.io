@@ -20,8 +20,8 @@ menu__settings:
       url: '/work/'
     - title: 'Agenda'
       url: '/agenda/'
-    - title: 'Organizers'
-      url: '/committees/'
+#    - title: 'Organizers'
+#      url: '/committees/'
 
 
 #      submenu:
