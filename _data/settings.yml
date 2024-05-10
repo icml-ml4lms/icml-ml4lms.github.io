@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: ML4LMS 
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/images/logo_chem.png'
 description: ML4LMS Workshop @ ICLR'24
 color_scheme: light  # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
