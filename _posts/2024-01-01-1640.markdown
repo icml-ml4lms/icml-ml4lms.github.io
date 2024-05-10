@@ -5,8 +5,8 @@ date: 2022-07-26 09:00:00 +0300
 image: '/images/rianne.png'
 title: Rianne van den Berg
 author: the Organizers
-description: Microsoft Research
-tags: [Material Science, Closing Keynote]
+description: Principal Research Manager, Microsoft Research
+tags: [Material Science, Keynote]
 order: 3
 ---
 

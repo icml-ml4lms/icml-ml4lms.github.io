@@ -6,7 +6,7 @@ image: '/images/panel.png'
 title: Panel - Material Science
 author: the Organizers
 description: Confirmed Panellists - David Pfau (DeepMind), Kevin Jablonka (Helmholtz Institute for Polymers in Energy Applications), Philippe Schwaller (EPFL), Sebastian Pattinson (Matta, University of Cambridge)
-tags: [Organizers]
+tags: [Panel]
 order: 4
 ---
 

@@ -6,7 +6,7 @@ image: '/images/poster.png'
 title: Lunch Break and Poster Session
 author: the Organizers
 description: Lunch Break and Poster Sessions
-tags: [Organizers]
+tags: [Poster Sessions]
 order: 11
 ---
 

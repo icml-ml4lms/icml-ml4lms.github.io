@@ -5,8 +5,8 @@ date: 2022-07-26 09:00:00 +0300
 image: '/images/laksh.jpg' 
 title: Laksh Aithani
 author: Laksh Aithani
-description: CHARM Therapeutics
-tags: [Life Sciences, Industry, Keynote]
+description: CEO, CHARM Therapeutics
+tags: [Life Sciences, Keynote]
 order: 19
 ---
 

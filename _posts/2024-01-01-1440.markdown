@@ -6,7 +6,7 @@ image: '/images/open_review.jpeg'
 title: Contributed Talks
 author: the Organizers
 description: Our committees will select three submissions to contribute talks on ML and Materials (each speaker will get 10 minutes talking time)
-tags: [Material Sciences]
+tags: [Proceedings]
 order: 8
 ---
 

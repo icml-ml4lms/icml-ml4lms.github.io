@@ -3,10 +3,10 @@ layout: post
 schedule: 11:30-12:15
 date: 2022-07-26 09:00:00 +0300
 image: '/images/panel.png'
-author: the Organizers]
+author: organizers
 title: Panel
 description: Confirmed panelists include Michael Bronstein (VantAI, University of Oxford), Andrew Phillips (Sanofi), Sepp Hochreiter (Johannes Kepler University Linz)
-tags: [Organizers]
+tags: [Panel]
 order: 12
 ---
 

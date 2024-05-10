@@ -6,7 +6,7 @@ image: '/images/coffee.png'
 author: the Organizers
 title: Coffee Break
 description: Coffee Break sponsored by TBC
-tags: [Organizers]
+tags: [Coffee Break]
 order: 16
 ---
 

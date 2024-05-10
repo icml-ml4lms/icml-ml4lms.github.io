@@ -5,7 +5,7 @@ date: 2022-07-26 09:00:00 +0300
 #image: '/images/icml.png'
 title: Closing Remarks
 author: the Organizers
-description: Opening Remarks for the workshop
+description: Closing Remarks for the workshop
 tags: [Organizers]
 order: 2
 ---

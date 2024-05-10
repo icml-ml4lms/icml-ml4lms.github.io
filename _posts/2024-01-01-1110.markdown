@@ -2,11 +2,11 @@
 layout: post
 schedule: 11:10-11:30
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
-title: TBC
+image: '/images/anne.jpeg'
+title: Anne-Florence Bitbol
 author: the Organizers
-description: TBC
-tags: [Organizers]
+description: Assistant Professor, Institute of Bioengineering, School of Life Sciences, EPFL
+tags: [Life Sciences]
 order: 13
 ---
 

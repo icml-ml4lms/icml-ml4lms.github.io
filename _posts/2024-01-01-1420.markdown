@@ -5,7 +5,7 @@ date: 2022-07-26 09:00:00 +0300
 image: '/images/frank.jpg'
 title: Frank Noe
 author: the Organizers
-description: Microsoft Research
+description: Partner Research Manager, Microsoft Research
 tags: [Material Sciences]
 order: 9
 ---

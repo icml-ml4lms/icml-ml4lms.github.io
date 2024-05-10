@@ -5,7 +5,7 @@ date: 2022-07-26 09:00:00 +0300
 image: '/images/mario.jpg'
 title: Mario Geiger
 author: the Organizers
-description: NVIDIA
+description: Senior Research Scientist, NVIDIA
 tags: [Material Sciences]
 order: 10
 ---

@@ -4,7 +4,7 @@ date: 2022-07-26 09:00:00 +0300
 image: '/images/morgan.png'
 author: Morgan Levine
 title: Morgan Levine
-description: Altos Labs
+description: Principal Investigator, Altos Labs
 tags: [Life Sciences]
 order: 18
 ---
