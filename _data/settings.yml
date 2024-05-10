@@ -132,7 +132,7 @@ testimonial__items:
     image: "/images/org/regev.jpg"
     designation: "Genentech"
     link: "https://en.wikipedia.org/wiki/Aviv_Regev"
-    content: "Computational biologist & Executive VP of Genentech Research and Early Development. Also a core member at Broad Institute and professor at Massachusetts Institute of Technology."
+    content: "Computational biologist & Executive VP of Genentech. Also a core member at Broad Institute and professor at Massachusetts Institute of Technology."
   
   - name: "Cecilia Clementi"
     image: "/images/org/clementi.jpg"
