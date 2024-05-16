@@ -57,6 +57,7 @@ social:
 hero:
   enable: true
   hero__title: ML4LMS Workshop
+  hero__workshopname: 'Machine Learning for Life and Material Science: From Theory to Industry applications'
   hero__subtitle: ICML'24 - July 26th, Vienna, Austria
   hero__description: ML4LMS aims to highlight translational machine learning research in biology and chemistry for real-world applications in life and materials science
   hero__image: "/images/vienna_austria.jpeg"
@@ -92,6 +93,11 @@ logo__items:
   - name: SANDBOXAQ
     link: "https://www.sandboxaq.com/"
     image: "/images/sandboxaq_logo.png"
+    size: 100
+
+  - name: VANTAI
+    link: "https://www.vant.ai/"
+    image: "/images/vantai_logo.png"
     size: 100
 
 
