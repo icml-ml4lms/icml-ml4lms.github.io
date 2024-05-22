@@ -25,7 +25,8 @@ permalink: /submissions/
     </tr>
     <tr>
         <td>
-            <a href="https://www.overleaf.com/latex/templates/ml4lms-at-icml24-template/vrwkwmsgtqcs">
+            <!--<a href="https://www.overleaf.com/latex/templates/ml4lms-at-icml24-template/vrwkwmsgtqcs">-->
+            <a href="https://www.overleaf.com/read/txvrdpghbcnz#a0e022">
                 <img src="/images/overleaf.png" style="all: unset; width: 35%; transition: filter 0.3s;" onmouseover="this.style.filter='grayscale(100%)'" onmouseout="this.style.filter='none'">
             </a> 
         </td>
@@ -44,9 +45,7 @@ permalink: /submissions/
 </div>
 
 **Attention**
-If you select the Overleaf template, you will need to download the project zip file for now and upload it as a new project. Overleaf moderators will publish the official template in the coming days.
-
-
+If you select the Overleaf template, you will need to download the project zip file for now and upload it as a new project. 
 
 ### What's the workshop topic?
 > ML4LMS aims to highlight translational machine learning research in biology and chemistry for real-world applications in life and materials science. The goal is to bridge theoretical advances with practical applications and connect academic and industry researchers.
