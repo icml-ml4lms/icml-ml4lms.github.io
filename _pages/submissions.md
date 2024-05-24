@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 📣 Submissions are Open 
-description: Check the FAQ below before submitting to our workshop
+title: 🔒 Submissions Closed 
+description: Thank you everyone for the 141 submissions we have received! 
 permalink: /submissions/
 #image: '/images/01-2.jpg'
 # image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
