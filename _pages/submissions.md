@@ -124,7 +124,7 @@ Yes! Thanks to NVIDIA's generous sponsorship we have 4 prizes
 Check the [Prizes Page](/prizes) for more details
 
 ### IQ Capital Fast-track conversations
-Once decisions are made on June 17th, IQ Capital will review the accepted submissions. Up to three papers demonstrating high commercialization potential—such as those that could evolve into startups or marketable products—will be selected by IQ Capital for fast-track funding discussions. The selection is solely at the discretion of IQ Capital, and the organisers will have no influence on their criteria or decision-making process.
+Once decisions are made on June 17th, IQ Capital will review the accepted submissions and select the Most Commercially Exciting Research Papers. Up to three papers demonstrating high commercialization potential — such as those that could evolve into startups or marketable products—will be selected by IQ Capital for fast-track funding discussions. The selection is solely at the discretion of IQ Capital, and the organisers will have no influence on their criteria or decision-making process.
 
 
 ### I still have questions!
