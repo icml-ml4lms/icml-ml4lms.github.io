@@ -100,6 +100,10 @@ logo__items:
     image: "/images/vantai_logo.png"
     size: 100
 
+  - name: PFIZER
+    link: "https://www.pfizer.com/"
+    image: "/images/pfizer_logo.png"
+    size: 300
 
 
 #-------------------------------

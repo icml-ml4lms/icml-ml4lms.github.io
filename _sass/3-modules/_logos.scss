@@ -5,16 +5,18 @@
 }
 
 .logos__list {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  margin: -$base-spacing-unit;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 logos per row */
+  gap: 20px; /* Adjust the gap between logos as needed */
+  list-style: none; /* Remove default list styling */
+  padding: 0;
+  margin: 0;
 }
 
 .logos__item {
-  padding: $base-spacing-unit;
-  margin-bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .logos__link {
@@ -28,7 +30,8 @@
 }
 
 .logos__image {
-  height: 36px;
+  width: auto; /* Set a fixed width for all logos */
+  height: 32px; /* Maintain aspect ratio */
   //filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(179deg) brightness(0%) contrast(0%);
 
   @media (max-width: $mobile) {

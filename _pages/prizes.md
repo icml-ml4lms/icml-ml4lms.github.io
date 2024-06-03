@@ -45,6 +45,12 @@ permalink: /prizes/
     <tr><td>Translational Material Science highlight
 </td><td>RTX 2000 Ada Generation Graphics Card - NVIDIA</td><td><img src="/images/A2000.png" width="50%"></td></tr>
     <tr><td>Top 3 Reviewers</td><td> 2x DLI Institute Workshops</td><td><img src="/images/dli_logo.png" width="50%"></td></tr>
+    <tr><td>Up to 3 papers** </td><td> Fast-track conversations for funding with IQ Capital </td><td><img src="/images/iq_capital.png" width="50%"></td></tr>
+
   </table>
 </div>
+<p style="font-size: 13px;">
+    ** Once decisions are made on June 17th, IQ Capital will review the accepted submissions. Up to three papers demonstrating high commercialization potential—such as those that could evolve into startups or marketable products—will be selected by IQ Capital for fast-track funding discussions. The selection is solely at the discretion of IQ Capital, and the organisers will have no influence on their criteria or decision-making process.
+</p>
+
 
