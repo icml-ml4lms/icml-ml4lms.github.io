@@ -15,14 +15,14 @@ permalink: /prizes/
         <td> Life Sciences Highlight </td>
         <td> Material Sciences Highlight</td>
         <td>Top 3 Reviewers</td>
-        <td>TMost Commercially Exciting Research Paper</td>
+        <td>Most Commercially Exciting Research Paper</td>
     </tr>
     <tr>
         <td><img src="/images/prize-1.png" width="45%"></td>
         <td><img src="/images/prize-2.png" width="45%"></td>
         <td><img src="/images/prize-3.png" width="45%"></td>
         <td><img src="/images/prize-4.png" width="45%"></td>
-        <td><img src="/images/prize-1.png" width="45%"></td>
+        <td><img src="/images/prize-4.png" width="45%"></td>
     </tr>
     <tr>
         <td>[ Name, Affilitation]</td>
@@ -56,7 +56,7 @@ permalink: /prizes/
   </table>
 </div>
 <p style="font-size: 13px;">
-    ** Once decisions are made on June 17th, IQ Capital will review the accepted submissions. Up to three papers demonstrating high commercialization potential—such as those that could evolve into startups or marketable products—will be selected by IQ Capital for fast-track funding discussions. The selection is solely at the discretion of IQ Capital, and the organisers will have no influence on their criteria or decision-making process.
+    ** Once decisions are made on June 17th, IQ Capital will review the accepted submissions and select the Most Commercially Exciting Research Papers. Up to three papers demonstrating high commercialization potential—such as those that could evolve into startups or marketable products—will be selected by IQ Capital for fast-track funding discussions. The selection is solely at the discretion of IQ Capital, and the organisers will have no influence on their criteria or decision-making process.
 </p>
 
 
