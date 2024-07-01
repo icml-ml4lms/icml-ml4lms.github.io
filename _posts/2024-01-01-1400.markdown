@@ -2,12 +2,12 @@
 layout: post
 schedule: 14:00-14:20
 date: 2022-07-26 09:00:00 +0300
-image: '/images/mario.jpg'
-title: Mario Geiger
+image: '/images/burkhard.jpg'
+title: Burkhard Rost
 author: the Organizers
-description: Senior Research Scientist, NVIDIA
+description: Leading the Department for Computational Biology & Bioinformatics at the Faculty of Informatics of the Technical University of Munic
 tags: [Material Sciences]
-order: 10
+order: 7
 ---
 
 ## Talk Title

@@ -1,12 +1,12 @@
 ---
 layout: post
-schedule: 16:40-17:00
+schedule: 16:25-16:55
 date: 2022-07-26 09:00:00 +0300
 image: '/images/rianne.png'
 title: Rianne van den Berg
 author: the Organizers
 description: Principal Research Manager, Microsoft Research
-tags: [Material Science, Keynote]
+tags: [Keynote, Material Science]
 order: 3
 ---
 

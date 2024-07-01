@@ -2,15 +2,15 @@
 layout: post
 schedule: 18:00-20:00
 date: 2022-07-26 09:00:00 +0300
-image: '/images/socials.png'
+image: '/images/socials2.png'
 title: Socials 
 author: Relation Therapeutics
-description: Socials sponsored by Relation Therapeutics and Microsoft
+description: Socials sponsored by Relation Therapeutics, VantAI, and Microsoft
 tags: [Socials]
 order: 1
 ---
 
-## Socials Sponsored By Relation Therapeutics
+## Socials Sponsored By Relation Therapeutics, VantAI, and Microsoft
 Please note this event is exclusive to workshop attendees
 
 
@@ -18,3 +18,5 @@ Sponsored by
 
 
 <img src="/images/relation_logo.png" width="25%"/> 
+<img src="/images/vantai_logo.png" width="25%"/> 
+<img src="/images/msft_logo.png" width="25%"/> 

@@ -1,0 +1,14 @@
+---
+layout: post
+schedule: 12:50-13:10
+date: 2022-07-26 09:00:00 +0300
+image: '/images/mario.jpg'
+title: Mario Geiger
+author: the Organizers
+description: Senior Research Scientist, NVIDIA
+tags: [Material Sciences]
+order: 11
+---
+
+## Talk Title
+Talk abstract

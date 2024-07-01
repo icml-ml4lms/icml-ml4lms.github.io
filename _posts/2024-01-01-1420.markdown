@@ -2,12 +2,12 @@
 layout: post
 schedule: 14:20-14:40
 date: 2022-07-26 09:00:00 +0300
-image: '/images/frank.jpg'
-title: Frank Noe
+image: '/images/guenter.png'
+title: Guenter Klambauer
 author: the Organizers
-description: Partner Research Manager, Microsoft Research
+description: Professor at Johannes Kepler University
 tags: [Material Sciences]
-order: 9
+order: 6
 ---
 
 ## Talk Title

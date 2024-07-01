@@ -1,14 +1,14 @@
 ---
 layout: post
-schedule: 10:20-10:50
+schedule: 10:20-10:40
 date: 2022-07-26 09:00:00 +0300
 image: '/images/open_review.jpeg'
 title: Contributed Talks
 author: the Organizers
-description: Our committees will select three submissions to contribute talks on ML and Health (each speaker will get 10 minutes talking time)
+description: Our committees will select 2 submissions to contribute talks on ML and Health (each speaker will get 10 minutes talking time)
 tags: [Proceedings]
 order: 15
 ---
 
 ## Talk Title
-Talk abstract
+Details coming soon

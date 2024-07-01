@@ -1,14 +1,14 @@
 ---
 layout: post
-schedule: 12:15-14:00
+schedule: 11:45-13:05
 date: 2022-07-26 09:00:00 +0300
 image: '/images/poster.png'
-title: Lunch Break and Poster Session
+title: Poster Session
 author: the Organizers
-description: Lunch Break and Poster Sessions
+description: Poster Session 
 tags: [Poster Sessions]
-order: 11
+order: 12
 ---
 
 ## Talk Title
-Talk abstract
+Poster session

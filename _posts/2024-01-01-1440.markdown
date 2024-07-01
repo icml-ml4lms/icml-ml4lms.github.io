@@ -1,14 +1,14 @@
 ---
 layout: post
-schedule: 14:40-15:10
+schedule: 14:40-15:40
 date: 2022-07-26 09:00:00 +0300
-image: '/images/open_review.jpeg'
-title: Contributed Talks
+image: '/images/sqr_pfizer_logo.png'
+title: Coffee & Poster Session
 author: the Organizers
-description: Our committees will select three submissions to contribute talks on ML and Materials (each speaker will get 10 minutes talking time)
-tags: [Proceedings]
-order: 8
+description: Coffe & Poster Session sponsored by Pfizer
+tags: [Poster Sessions]
+order: 5
 ---
 
 ## Talk Title
-Talk abstract
+Sponsored by (.)

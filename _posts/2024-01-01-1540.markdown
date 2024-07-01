@@ -1,13 +1,13 @@
 ---
 layout: post
-schedule: 15:40-16:00
+schedule: 15:40-16:25
 date: 2022-07-26 09:00:00 +0300
-image: '/images/icml.png'
-title: TBC
-author: TBC
-description: TBC
-tags: [Material Sciences]
-order: 5
+image: '/images/panel.png'
+title: Panel - Material Science
+author: the Organizers
+description: Confirmed Panellists - David Pfau (DeepMind), Kevin Jablonka (Helmholtz Institute for Polymers in Energy Applications), Philippe Schwaller (EPFL), Sebastian Pattinson (Matta, University of Cambridge)
+tags: [Panel]
+order: 4
 ---
 
 ## Talk Title

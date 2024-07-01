@@ -1,13 +1,13 @@
 ---
 layout: post
-schedule: 15:10-15:20
+schedule: 13:50-14:00
 date: 2022-07-26 09:00:00 +0300
-image: '/images/coffee.png'
+image: '/images/sqr_sandboxaq.png'
 title: Coffee Break
 author: the Organizers
-description: Coffee Break sponsored by TBC
+description: Coffee Break sponsored SandBoxAQ
 tags: [Coffee Break]
-order: 7
+order: 8
 ---
 
 ## Talk Title

@@ -2,10 +2,10 @@
 layout: post
 schedule: 10:10-10:20
 date: 2022-07-26 09:00:00 +0300
-image: '/images/coffee.png'
+image: '/images/sqr_iq_capital.png'
 author: the Organizers
-title: Coffee Break
-description: Coffee Break sponsored by TBC
+title: Coffee Break 
+description: Coffee Break sponsored by IQCapital
 tags: [Coffee Break]
 order: 16
 ---
