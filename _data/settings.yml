@@ -105,6 +105,10 @@ logo__items:
     image: "/images/pfizer_logo.png"
     size: 300
 
+  - name: GENESIS
+    link: "https://genesistherapeutics.ai/"
+    image: "/images/genesis_logo.png"
+    size: 300
 
 #-------------------------------
 # Newsletter

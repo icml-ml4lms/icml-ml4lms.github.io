@@ -2,13 +2,18 @@
 layout: post
 schedule: 11:45-13:05
 date: 2022-07-26 09:00:00 +0300
-image: '/images/poster.png'
+image: '/images/sqr_genesis_logo.png'
 title: Poster Session
 author: the Organizers
-description: Poster Session 
+description: Poster Session sponsored By Genesis Therapeutics
 tags: [Poster Sessions]
 order: 12
 ---
 
-## Talk Title
-Poster session
+## Poster Session by Genesis Therapeutics
+Thank you Genesis Therapeutics for sponsoring our Poster Session!
+
+### Transforming Small Molecule Drug Discovery to Solve Critical Patient Needs
+Genesis Therapeutics is pioneering generative and predictive AI technologies to develop and commercialize breakthrough treatments for patients suffering from severe and devastating conditions.
+
+They are are using our proprietary state-of-the-art generative and predictive AI platform called GEMS (Genesis Exploration of Molecular Space), to accelerate and optimize small molecule drug discovery and to enable the discovery of novel first-in-class and best-in-class small molecule drugs for challenging and/or undruggable targets
