@@ -2,10 +2,10 @@
 layout: post
 schedule: 18:00-20:00
 date: 2022-07-26 09:00:00 +0300
-image: '/images/socials2.png'
+image: '/images/ellis_socials.png'
 title: Socials 
 author: Relation Therapeutics
-description: Socials sponsored by Relation Therapeutics, VantAI, and Microsoft. Registration required via <a href="https://lu.ma/rojc95k1"> 🔗 THIS LINK </a>
+description: Socials sponsored by Relation Therapeutics, VantAI, and Microsoft. Supported by <a href="https://ellis.eu/"> ELLIS </a>. Registration required via <a href="https://lu.ma/rojc95k1"> 🔗 THIS LINK </a>
 tags: [Socials]
 order: 1
 ---

@@ -5,10 +5,20 @@ date: 2022-07-26 09:00:00 +0300
 image: '/images/panel.png'
 title: Panel - Material Science
 author: the Organizers
-description: Confirmed Panellists - David Pfau (DeepMind), Kevin Jablonka (Helmholtz Institute for Polymers in Energy Applications), Philippe Schwaller (EPFL), Sebastian Pattinson (Matta, University of Cambridge)
+description: Confirmed Panellists - David Pfau (DeepMind), Kevin Jablonka (Helmholtz Institute for Polymers in Energy Applications), Philippe Schwaller (EPFL), Sebastian Pattinson (Matta, University of Cambridge), Rianne van den Berg (Principal Research Manager at Microsoft)
 tags: [Panel]
 order: 4
 ---
 
-## Talk Title
-Talk abstract
+## Material Sciences Panel
+
+This panel brings together leading experts to explore the transformative intersection of Material Sciences and Machine Learning. 
+
+Our esteemed panellists include 
+
+* David Pfau from DeepMind, renowned for his pioneering work fusion processes and materials; 
+* Kevin Jablonka of the Helmholtz Institute for Polymers in Energy Applications. * Philippe Schwaller from EPFL, an authority on chemical reaction prediction using deep learning; 
+* Sebastian Pattinson of Matta, University of Cambridge, whose research integrates advanced materials with AI for innovative solutions; 
+* Rianne van den Berg, Principal Research Manager at Microsoft, who spearheads AI-driven advancements in material discovery. 
+
+Together, they will discuss recent breakthroughs, ongoing challenges, and future directions in utilising machine learning to accelerate material innovation, optimise properties, and discover new functionalities. This panel promises to provide valuable insights into how cutting-edge machine learning techniques are shaping the future of material sciences, fostering interdisciplinary collaboration, and driving technological advancements.

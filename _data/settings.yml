@@ -20,6 +20,8 @@ menu__settings:
       url: '/work/'
     - title: 'Agenda'
       url: '/agenda/'
+    - title: 'Committees'
+      url: '/committees/'
 #    - title: 'Organizers'
 #      url: '/committees/'
 
@@ -136,7 +138,7 @@ testimonial__title: Steering Committee
 testimonial__description: Leading the workshops' vision and steering the community.
 
 testimonial__items:
-  - name: "Andrea Vollkamer"
+  - name: "Andrea Volkamer"
     image: "/images/org/vollkamer.jpg"
     designation: "University of Saarland"
     link: "https://scholar.google.com/citations?user=ksE3fxQAAAAJ&hl=en"
@@ -168,7 +170,7 @@ testimonial__items:
 
   - name: "Francesca Grisoni"
     image: "/images/org/grisoni.jpg"
-    designation: "TU/Eindhoven"
+    designation: "TU Eindhoven"
     link: "https://scholar.google.com/citations?user=qw2NmGsAAAAJ&hl=en"
     content : "Assistant Professor in the Department of Biomedical Engineering at TU/Eindhoven, leading the Molecular Machine Learning team. Her research primarily centres on developing novel artificial intelligence methods for drug discovery, integrating computation and experimental validation in the wet-lab."
 
@@ -178,7 +180,7 @@ testimonial__items:
     link: "https://scholar.google.com/citations?user=mq-Vzk8AAAAJ&hl=en"
     content : "Kevin Yang is a senior researcher at Microsoft Research in Cambridge, MA, focusing on problems at the intersection of machine learning and biology. He obtained his PhD from Caltech under Frances Arnold's supervision, specializing in applying machine learning to protein engineering."
 
-  - name: "Marwim Segler"
+  - name: "Marwin Segler"
     image: "/images/org/segler.jpg"
     designation: "Microsoft Research"
     link: "https://scholar.google.co.uk/citations?user=imsL94QAAAAJ&hl=en"
