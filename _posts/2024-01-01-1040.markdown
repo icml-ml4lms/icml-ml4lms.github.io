@@ -2,13 +2,14 @@
 layout: post
 schedule: 10:40-11:00
 date: 2022-07-26 09:00:00 +0300
-image: '/images/jose.jpg'
-title: Jose Miguel Hernandez-Lobato
+image: '/images/pascal.jpg'
+title:  Pascal Friederich
 author: the Organizers
-description: Professor of Machine Learning, University of Cambridge
+description: Professor in Computer Science with applications in materials science and chemistry, Karlsruhe Institute of Technology
 tags: [Life Sciences]
 order: 14
 ---
 
-## Talk Title
-Talk abstract
+## Machine Learning for Simulation, Understanding, and Design of Molecules and Materials
+
+Machine learning has become an integral part of materials research, enabling new ways of accelerated computational screening and inverse design, expanding the Pareto front of fast and accurate atomistic simulations, and allowing the automation of data analysis and decision-making in self-driving labs. The underlying principle of all those examples is to systematically avoid the creation of redundant data, thus substantially increasing the efficiency of the underlying experimental and computational tools that are used to generate data. In this talk, I will discuss open challenges and related opportunities, not only of further improving the machine learning methods used in computational design, atomistic simulation, and experimental discovery of materials, but also of moving beyond the paradigm of increasing data efficiency. In particular, I will discuss (a) possibilities to use xAI methods to uncover hidden relations in large amounts of complex data and thus advance our scientific understanding, and (b) opportunities to use machine learning to interface computational and experimental methods and thus move toward truly autonomous science.
