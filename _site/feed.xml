@@ -5,8 +5,8 @@
         <description>ML4LMS Workshop @ ICLR&apos;24</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jul 2024 14:00:44 +0100</pubDate>
-        <lastBuildDate>Fri, 19 Jul 2024 14:00:44 +0100</lastBuildDate>
+        <pubDate>Fri, 19 Jul 2024 14:19:26 +0100</pubDate>
+        <lastBuildDate>Fri, 19 Jul 2024 14:19:26 +0100</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
         
             <item>
@@ -45,8 +45,8 @@
         
             <item>
                 <title>Rianne van den Berg</title>
-                <description>&lt;h2 id=&quot;talk-title&quot;&gt;Talk Title&lt;/h2&gt;
-&lt;p&gt;Talk abstract&lt;/p&gt;
+                <description>&lt;h2 id=&quot;generative-modeling-for-the-natural-sciences&quot;&gt;Generative Modeling for the Natural Sciences&lt;/h2&gt;
+&lt;p&gt;In this talk will cover applications of generative models in different areas of the natural sciences. More details to come closer to the event.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 26 Jul 2022 07:00:00 +0100</pubDate>
                 <link>http://localhost:4000/blog/1625</link>
@@ -88,7 +88,11 @@
             <item>
                 <title>Coffee &amp; Poster Session</title>
                 <description>&lt;h2 id=&quot;coffee-break-sponsored-by-pfizer&quot;&gt;Coffee Break Sponsored by Pfizer&lt;/h2&gt;
-&lt;p&gt;Sponsored by (.)&lt;/p&gt;
+&lt;p&gt;Pfizer Inc. is an American multinational pharmaceutical and biotechnology corporation headquartered at The Spiral in Manhattan, New York City. The company was established in 1849 in New York by two German entrepreneurs, Charles Pfizer (1824–1906) and his cousin Charles F. Erhart (1821–1891).&lt;/p&gt;
+
+&lt;p&gt;Pfizer develops and produces medicines and vaccines for immunology, oncology, cardiology, endocrinology, and neurology. The company’s largest products by sales are the Pfizer–BioNTech COVID-19 vaccine ($11 billion in 2023 revenues), apixaban ($6 billion in 2023 revenues), a pneumococcal conjugate vaccine ($6 billion in 2023 revenues), palbociclib ($4 billion in 2023 revenues), and tafamidis ($3 billion in 2023 revenues). In 2023, 46% of the company’s revenues came from the United States, 6% came from Japan, and 48% came from other countries.&lt;/p&gt;
+
+&lt;p&gt;The company ranks 38th on the Fortune 500 and 39th on the Forbes Global 2000.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 26 Jul 2022 07:00:00 +0100</pubDate>
                 <link>http://localhost:4000/blog/1440</link>
