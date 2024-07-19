@@ -10,5 +10,13 @@ tags: [Material Sciences]
 order: 6
 ---
 
-## Talk Title
-Talk abstract
+## Towards Broad AI for Molecules and Drug Discovery
+"Over the last decade, machine learning and Deep Learning methods have paved
+their way into all kinds of computational task for molecules. The molecular machine learning research community believes that it has made strong progress in 
+    * a) activity and property prediction, 
+    * b) representation learning and molecular modeling,
+    * c) chemical synthesis and reaction prediction, and 
+    * d) generative models for molecules.
+But have we really made progress? QSAR models have been around since the 1960s and
+we might have only slightly increased predictive performance.  Have these methods deserved the name ”Artificial Intelligence”? In this talk, we provide a perspective
+recent progress in molecular machine learning, on the essential properties that our AIs should have to make a difference, and steps towards such broad AIs."

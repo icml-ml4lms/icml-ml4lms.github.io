@@ -5,8 +5,8 @@
         <description>ML4LMS Workshop @ ICLR&apos;24</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jul 2024 13:47:18 +0100</pubDate>
-        <lastBuildDate>Fri, 19 Jul 2024 13:47:18 +0100</lastBuildDate>
+        <pubDate>Fri, 19 Jul 2024 14:00:44 +0100</pubDate>
+        <lastBuildDate>Fri, 19 Jul 2024 14:00:44 +0100</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
         
             <item>
@@ -87,7 +87,7 @@
         
             <item>
                 <title>Coffee &amp; Poster Session</title>
-                <description>&lt;h2 id=&quot;talk-title&quot;&gt;Talk Title&lt;/h2&gt;
+                <description>&lt;h2 id=&quot;coffee-break-sponsored-by-pfizer&quot;&gt;Coffee Break Sponsored by Pfizer&lt;/h2&gt;
 &lt;p&gt;Sponsored by (.)&lt;/p&gt;
 </description>
                 <pubDate>Tue, 26 Jul 2022 07:00:00 +0100</pubDate>
@@ -101,8 +101,16 @@
         
             <item>
                 <title>Guenter Klambauer</title>
-                <description>&lt;h2 id=&quot;talk-title&quot;&gt;Talk Title&lt;/h2&gt;
-&lt;p&gt;Talk abstract&lt;/p&gt;
+                <description>&lt;h2 id=&quot;towards-broad-ai-for-molecules-and-drug-discovery&quot;&gt;Towards Broad AI for Molecules and Drug Discovery&lt;/h2&gt;
+&lt;p&gt;“Over the last decade, machine learning and Deep Learning methods have paved
+their way into all kinds of computational task for molecules. The molecular machine learning research community believes that it has made strong progress in 
+    * a) activity and property prediction, 
+    * b) representation learning and molecular modeling,
+    * c) chemical synthesis and reaction prediction, and 
+    * d) generative models for molecules.
+But have we really made progress? QSAR models have been around since the 1960s and
+we might have only slightly increased predictive performance.  Have these methods deserved the name ”Artificial Intelligence”? In this talk, we provide a perspective
+recent progress in molecular machine learning, on the essential properties that our AIs should have to make a difference, and steps towards such broad AIs.”&lt;/p&gt;
 </description>
                 <pubDate>Tue, 26 Jul 2022 07:00:00 +0100</pubDate>
                 <link>http://localhost:4000/blog/1420</link>
@@ -115,8 +123,12 @@
         
             <item>
                 <title>Burkhard Rost</title>
-                <description>&lt;h2 id=&quot;talk-title&quot;&gt;Talk Title&lt;/h2&gt;
-&lt;p&gt;Talk abstract&lt;/p&gt;
+                <description>&lt;h2 id=&quot;artificial-intelligence-deciphers-the-code-of-life-written-in-proteins&quot;&gt;Artificial Intelligence Deciphers the Code of Life Written in Proteins?&lt;/h2&gt;
+&lt;p&gt;The objective of our group is to predict aspects of protein function and structure from sequence. The wealth of evolutionary information available through comparing the whole bio-diversity of species makes such an ambitious goal achievable. Our particular niche is the combination of evolutionary information (EI) with machine learning (ML) and artificial intelligence (AI). 30 years ago, the marriage of machine learning and evolutionary information (in the form of Multiple Sequence Alignments) allowed a breakthrough in secondary structure prediction. The same principle has been underlying all state-of-the-art predictions of protein structure and function and is also the root for the program that broke through in protein structure prediction, namely AlphaFold2.&lt;/p&gt;
+
+&lt;p&gt;Over the last two years, it has become possible to deep learn the language of life written in proteins through protein Language Models (pLMs). The information extracted is transfer learned to supervise learn protein prediction with annotations. I will present three particular new methods predicting protein structure (1D: secondary structure, membrane regions, &amp;amp; disorder, 2D: inter-residue distances/contacts, 3D: co-ordinates) and protein function (sub-cellular location, binding residues, GO terms), and the effects of sequence variation using pLMs. These embeddings allow for some applications to reach for others to surpass the state-of-the-art without using evolutionary information.&lt;/p&gt;
+
+&lt;p&gt;Crucial in all of this is the understanding of the AI and the control of database bias. For both computational biology could serve as a sandbox to prepare more sensitive applications of AI in society.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 26 Jul 2022 07:00:00 +0100</pubDate>
                 <link>http://localhost:4000/blog/1400</link>
@@ -129,8 +141,12 @@
         
             <item>
                 <title>Coffee Break</title>
-                <description>&lt;h2 id=&quot;talk-title&quot;&gt;Talk Title&lt;/h2&gt;
-&lt;p&gt;Talk abstract&lt;/p&gt;
+                <description>&lt;h2 id=&quot;coffee-break-sponsored-by-sandboxaq&quot;&gt;Coffee Break Sponsored by SandBoxAQ&lt;/h2&gt;
+&lt;p&gt;In the tech and data intelligence worlds, a sandbox is where innovation is born. It’s a place where the brightest free-thinking minds from across disciplines come together to reimagine what’s possible. A collaborative environment where the whole is infinitely greater than the sum of the parts.&lt;/p&gt;
+
+&lt;p&gt;At SandboxAQ, this forward-looking vision is core to everything we do. It’s how we became who we are and it’s how we know our solutions can shift the way your business competes in tomorrow’s marketplace. As the world enters the third quantum revolution, AI + Quantum software will address significant business and scientific challenges.
+‍
+SandboxAQ is an enterprise SaaS company, providing solutions at the nexus of AI and Quantum technology (AQ) to address some of the world’s most challenging problems. The company’s core team and inspiration formed at Alphabet Inc., emerging as an independent, growth-capital-backed company in 2022.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 26 Jul 2022 07:00:00 +0100</pubDate>
                 <link>http://localhost:4000/blog/1350</link>
@@ -143,8 +159,22 @@
         
             <item>
                 <title>Contributed Talks</title>
-                <description>&lt;h2 id=&quot;talk-title&quot;&gt;Talk Title&lt;/h2&gt;
-&lt;p&gt;Talk abstract&lt;/p&gt;
+                <description>&lt;h3 id=&quot;contributed-talk-iii&quot;&gt;Contributed Talk III&lt;/h3&gt;
+
+&lt;h4 id=&quot;generative-acceleration-of-molecular-dynamics-simulations-for-solid-state-electrolytes&quot;&gt;Generative acceleration of molecular dynamics simulations for solid-state electrolytes&lt;/h4&gt;
+
+&lt;p&gt;Presented by: Juno Nam&lt;/p&gt;
+
+&lt;p&gt;We introduce LiFlow, a generative acceleration framework designed for efficiently simulating diffusive dynamics in solids, particularly lithium-based solid-state electrolytes (SSEs). LiFlow consists of two components: Propagator and Corrector, which utilize a conditional flow matching scheme to predict atomic displacements and perform denoising, respectively. Our model achieves a Spearman’s rank correlation of approximately 0.7 for the lithium mean squared displacement (MSD) on test set based on composition and temperature splits and offers a substantial speedup compared to reference molecular dynamics (MD) simulations using machine learning interatomic potentials (MLIPs). This framework facilitates high-throughput virtual screening for electrolyte materials and holds promise for the optimization of the kinetic properties of crystalline solids.&lt;/p&gt;
+
+&lt;h3 id=&quot;contributed-talk-iv&quot;&gt;Contributed Talk IV&lt;/h3&gt;
+
+&lt;h4 id=&quot;a-recipe-for-charge-density-prediction&quot;&gt;A Recipe for Charge Density Prediction&lt;/h4&gt;
+
+&lt;p&gt;Presented by: Julia Balla&lt;/p&gt;
+
+&lt;p&gt;In density functional theory, charge density is the core attribute of atomic systems from which all chemical properties can be derived. Machine learning methods are promising in significantly accelerating charge density prediction, yet existing approaches either lack accuracy or scalability. We propose a recipe that can achieve both. In particular, we identify three key ingredients: (1) representing the charge density with atomic and virtual orbitals (spherical fields centered at atom/virtual coordinates); (2) using expressive and learnable orbital basis sets (basis function for the spherical fields); and (3) using high-capacity equivariant neural network architecture. Our method achieves state-of-the-art accuracy while being more than an order of magnitude faster than existing methods. Furthermore, our method enables flexible efficiency-accuracy trade-offs by adjusting the model/basis sizes.&lt;/p&gt;
+
 </description>
                 <pubDate>Tue, 26 Jul 2022 07:00:00 +0100</pubDate>
                 <link>http://localhost:4000/blog/1340</link>
@@ -157,8 +187,9 @@
         
             <item>
                 <title>Frank Noe</title>
-                <description>&lt;h2 id=&quot;talk-title&quot;&gt;Talk Title&lt;/h2&gt;
-&lt;p&gt;Talk abstract&lt;/p&gt;
+                <description>&lt;h2 id=&quot;protein-thermodynamics-and-kinetics-with-deep-learning&quot;&gt;Protein Thermodynamics and Kinetics with Deep Learning&lt;/h2&gt;
+
+&lt;p&gt;Talk abstract coming soon&lt;/p&gt;
 </description>
                 <pubDate>Tue, 26 Jul 2022 07:00:00 +0100</pubDate>
                 <link>http://localhost:4000/blog/1310</link>

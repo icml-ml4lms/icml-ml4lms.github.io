@@ -10,5 +10,13 @@ tags: [Panel]
 order: 13
 ---
 
-## Talk Title
-Confirmed panelists include Michael Bronstein (VantAI, University of Oxford), Andrew Phillips (Sanofi), Sepp Hochreiter (Johannes Kepler University Linz)
+## Panel
+Topics: translating ML innovations to LS, the historic impact of ML in life science applications, new frontiers of ML and their applicability to LS
+
+Moderated by: Chris Dallago (NVIDIA)
+
+Confirmed panelists:
+
+* Michael Bronstein (VantAI, University of Oxford)
+* Andrew Phillips (Sanofi)
+* Sepp Hochreiter (Johannes Kepler University Linz)

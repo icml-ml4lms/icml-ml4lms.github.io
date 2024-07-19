@@ -10,5 +10,5 @@ tags: [Poster Sessions]
 order: 5
 ---
 
-## Talk Title
+## Coffee Break Sponsored by Pfizer 
 Sponsored by (.)

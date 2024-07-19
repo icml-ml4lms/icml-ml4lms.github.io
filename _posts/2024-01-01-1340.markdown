@@ -10,5 +10,22 @@ tags: [Proceedings]
 order: 9
 ---
 
-## Talk Title
-Talk abstract
+### Contributed Talk III
+
+#### Generative acceleration of molecular dynamics simulations for solid-state electrolytes
+
+Presented by: Juno Nam 
+
+We introduce LiFlow, a generative acceleration framework designed for efficiently simulating diffusive dynamics in solids, particularly lithium-based solid-state electrolytes (SSEs). LiFlow consists of two components: Propagator and Corrector, which utilize a conditional flow matching scheme to predict atomic displacements and perform denoising, respectively. Our model achieves a Spearman's rank correlation of approximately 0.7 for the lithium mean squared displacement (MSD) on test set based on composition and temperature splits and offers a substantial speedup compared to reference molecular dynamics (MD) simulations using machine learning interatomic potentials (MLIPs). This framework facilitates high-throughput virtual screening for electrolyte materials and holds promise for the optimization of the kinetic properties of crystalline solids.
+
+### Contributed Talk IV
+
+####  A Recipe for Charge Density Prediction
+
+Presented by: Julia Balla
+
+In density functional theory, charge density is the core attribute of atomic systems from which all chemical properties can be derived. Machine learning methods are promising in significantly accelerating charge density prediction, yet existing approaches either lack accuracy or scalability. We propose a recipe that can achieve both. In particular, we identify three key ingredients: (1) representing the charge density with atomic and virtual orbitals (spherical fields centered at atom/virtual coordinates); (2) using expressive and learnable orbital basis sets (basis function for the spherical fields); and (3) using high-capacity equivariant neural network architecture. Our method achieves state-of-the-art accuracy while being more than an order of magnitude faster than existing methods. Furthermore, our method enables flexible efficiency-accuracy trade-offs by adjusting the model/basis sizes.
+
+
+
+
