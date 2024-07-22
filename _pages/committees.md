@@ -70,6 +70,63 @@ permalink: /committees/
   </tr> 
 
 
+<tr>
+    <td colspan="3" style="background-color: #ccc; color: white; font-size: 22px;"></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="background-color: black; color: white; font-size: 22px;">SPONSORS</td>
+  </tr>
+    <tr>
+    <td colspan="3" style="background-color: #ccc; color: white; font-size: 22px;"></td>
+  </tr>
+  <tr >
+    <th>Photo</th>
+    <th colspan="2">Contributors</th>
+  </tr>
+    <tr style="background-color: white; color: black;">
+    <td style="padding: 1%;"><img src="/images/sqr_nvidia.jpeg" alt="NVIDIA Logo" width="100" height="100"></td>
+    <td colspan="2"> Anthony Costa, Iris Chen </td>
+  </tr>
+  <tr style="background-color: white; color: black;">
+    <td style="padding: 1%;"><img src="/images/sqr_relation.jpeg" alt="RELATION Logo" width="100" height="100"></td>
+    <td colspan="2"> Rosie Rodriguez </td>
+
+  </tr>
+    <tr style="background-color: white; color: black;">
+    <td style="padding: 1%;"><img src="/images/vantai_logo.jpeg" alt="VANTAI Logo" width="100" height="100"></td>
+    <td colspan="2"> Luca Naef, Jed Ackermann </td>
+
+  </tr>
+    <tr style="background-color: white; color: black;">
+    <td style="padding: 1%;"><img src="/images/sqr_msft.png" alt="MICROSOFT Logo" width="100" height="100"></td>
+    <td colspan="2"> Marwim Segler </td>
+
+  </tr>
+  <tr style="background-color: white; color: black;">
+    <td style="padding: 1%;"><img src="/images/sqr_iq_capital.png" alt="IQCAPITAL Logo" width="100" height="100"></td>
+    <td colspan="2"> Jonno Evans, Kushaal Desai, Ed Stacey</td>
+
+  </tr>
+  <tr style="background-color: white; color: black;">
+    <td style="padding: 1%;"><img src="/images/sqr_sandboxaq.png" alt="SANDBOXAQ Logo" width="100" height="100"></td>
+    <td colspan="2"> Martin Ganahl </td>
+
+  </tr>
+
+  <tr style="background-color: white; color: black;">
+    <td style="padding: 1%;"><img src="/images/sqr_pfizer_logo.png" alt="PFIZER Logo" width="100" height="100"></td>
+    <td colspan="2">  Dawn L. Wawrzynowicz, Tuan Le</td>
+
+  </tr>
+  <tr style="background-color: white; color: black;">
+    <td style="padding: 1%;"><img src="/images/sqr_genesis_logo.png" alt="GENESIS Logo" width="100" height="100"></td>
+    <td colspan="2"> Lauren Flaus, Maruan Al-Shedivat</td>
+
+  </tr>
+
+
+
+
 
   <tr>
     <td colspan="3" style="background-color: #ccc; color: white; font-size: 22px;"></td>
@@ -210,61 +267,7 @@ permalink: /committees/
     <td><a href="https://scholar.google.com/citations?user=6lSSrkEAAAAJ&hl=en">Los Alamos National Laboratory</a></td>
   </tr>
 
-  <tr>
-    <td colspan="3" style="background-color: #ccc; color: white; font-size: 22px;"></td>
-  </tr>
-  <tr>
-    <td colspan="3" style="background-color: black; color: white; font-size: 22px;">SPONSORS</td>
-  </tr>
-    <tr>
-    <td colspan="3" style="background-color: #ccc; color: white; font-size: 22px;"></td>
-  </tr>
-  <tr >
-    <th>Photo</th>
-    <th colspan="2">Contributors</th>
-  </tr>
-    <tr style="background-color: white; color: black;">
-    <td style="padding: 1%;"><img src="/images/sqr_nvidia.jpeg" alt="NVIDIA Logo" width="100" height="100"></td>
-    <td colspan="2"> Anthony Costa, Iris Chen </td>
-  </tr>
-  <tr style="background-color: white; color: black;">
-    <td style="padding: 1%;"><img src="/images/sqr_relation.jpeg" alt="RELATION Logo" width="100" height="100"></td>
-    <td colspan="2"> Rosie Rodriguez </td>
-
-  </tr>
-    <tr style="background-color: white; color: black;">
-    <td style="padding: 1%;"><img src="/images/vantai_logo.jpeg" alt="VANTAI Logo" width="100" height="100"></td>
-    <td colspan="2"> Luca Naef, Jed Ackermann </td>
-
-  </tr>
-    <tr style="background-color: white; color: black;">
-    <td style="padding: 1%;"><img src="/images/sqr_msft.png" alt="MICROSOFT Logo" width="100" height="100"></td>
-    <td colspan="2"> Marwim Segler </td>
-
-  </tr>
-  <tr style="background-color: white; color: black;">
-    <td style="padding: 1%;"><img src="/images/sqr_iq_capital.png" alt="IQCAPITAL Logo" width="100" height="100"></td>
-    <td colspan="2"> Jonno Evans, Kushaal Desai, Ed Stacey</td>
-
-  </tr>
-  <tr style="background-color: white; color: black;">
-    <td style="padding: 1%;"><img src="/images/sqr_sandboxaq.png" alt="SANDBOXAQ Logo" width="100" height="100"></td>
-    <td colspan="2"> Martin Ganahl </td>
-
-  </tr>
-
-  <tr style="background-color: white; color: black;">
-    <td style="padding: 1%;"><img src="/images/sqr_pfizer_logo.png" alt="PFIZER Logo" width="100" height="100"></td>
-    <td colspan="2">  Dawn L. Wawrzynowicz, Tuan Le</td>
-
-  </tr>
-  <tr style="background-color: white; color: black;">
-    <td style="padding: 1%;"><img src="/images/sqr_genesis_logo.png" alt="GENESIS Logo" width="100" height="100"></td>
-    <td colspan="2"> Lauren Flaus, Maruan Al-Shedivat</td>
-
-  </tr>
-
-
+  
 
 
   <tr>
