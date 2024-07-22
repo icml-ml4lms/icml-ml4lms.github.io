@@ -255,7 +255,7 @@ organizers__items:
     content: "LLM Research at Stability AI. Deep learning engineer with a biotechnology background."
 
   - name: "Bruno Trentini"
-    image: "/images/org/trentini.png"
+    image: "/images/org/trentini.jpeg"
     designation: "NVIDIA"
     link: "https://www.linkedin.com/in/btrentini/"
     content: "Global Life Sciences Research Alliances Lead at NVIDIA. Interested in Geometric Deep Learning and Biomolecular design."

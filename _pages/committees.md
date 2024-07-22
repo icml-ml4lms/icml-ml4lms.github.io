@@ -8,8 +8,6 @@ permalink: /committees/
 ---
 
 <table>
-
-
   <tr>
     <td colspan="3" style="background-color: #ccc; color: white; font-size: 22px;"></td>
   </tr>
@@ -24,7 +22,7 @@ permalink: /committees/
     <th>Name </th>
     <th>Affiliation (link to profile)</th>
   </tr>
-      <tr>
+  <tr>
     <td><img src="/images/org/trentini.jpeg" alt="Bruno Trentini" width="100"></td>
     <td>Bruno Trentini (Organizing Committee)</td>
     <td><a href="https://www.linkedin.com/in/btrentini/">NVIDIA</a></td>
@@ -88,7 +86,7 @@ permalink: /committees/
     <th>Affiliation (link to profile)</th>
   </tr>
  <tr>
-    <td><img src="/images/org/trentini.png" alt="Bruno Trentini" width="100"></td>
+    <td><img src="/images/org/trentini.jpeg" alt="Bruno Trentini" width="100"></td>
     <td>Bruno Trentini</td>
     <td><a href="https://www.linkedin.com/in/btrentini/">NVIDIA</a></td>
 </tr>
@@ -409,5 +407,3 @@ permalink: /committees/
 <tr><td colspan="2">Zhonglin Cao</td><td>NVIDIA</td></tr>
 <tr><td colspan="2">Zhongtian Sun</td><td>University of Durham</td></tr>
 <tr><td colspan="2">Zuobai Zhang</td><td>Mila - Université de Montréal</td></tr>
-
-</table>
