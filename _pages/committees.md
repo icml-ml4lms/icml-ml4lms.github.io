@@ -104,7 +104,7 @@ permalink: /committees/
   </tr>
     <tr style="background-color: white; color: black;">
     <td style="padding: 1%;"><img src="/images/sqr_msft.png" alt="MICROSOFT Logo" width="100" height="100"></td>
-    <td colspan="2"> Marwim Segler </td>
+    <td colspan="2"> Marwin Segler </td>
 
   </tr>
   <tr style="background-color: white; color: black;">
