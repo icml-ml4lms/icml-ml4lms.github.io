@@ -90,7 +90,7 @@ permalink: /committees/
   </tr>
     <tr style="background-color: white; color: black;">
     <td style="padding: 1%;"><img src="/images/sqr_nvidia.jpeg" alt="NVIDIA Logo" width="100" height="100"></td>
-    <td colspan="2"> Anthony Costa, Iris Chen </td>
+    <td colspan="2"> Anthony Costa, Iris Chen, Marjut Dieringer</td>
   </tr>
   <tr style="background-color: white; color: black;">
     <td style="padding: 1%;"><img src="/images/sqr_relation.jpeg" alt="RELATION Logo" width="100" height="100"></td>
