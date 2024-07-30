@@ -14,31 +14,35 @@ permalink: /prizes/
         <td>⭐ Most Ambitious Submission</td>
         <td> Life Sciences Highlight </td>
         <td> Material Sciences Highlight</td>
-        <td>Top 3 Reviewers</td>
-        <td>Most Commercially Exciting Research Paper</td>
     </tr>
     <tr>
-        <td><img src="/images/prize-1.png" width="45%"></td>
-        <td><img src="/images/prize-2.png" width="45%"></td>
-        <td><img src="/images/prize-3.png" width="45%"></td>
-        <td><img src="/images/prize-4.png" width="45%"></td>
-        <td><img src="/images/prize-4.png" width="45%"></td>
+        <td>RiNALMo: General-Purpose RNA Language Models Can Generalize Well on Structure Prediction Tasks</td>
+        <td>FlowBack: A Flow-matching Approach for Generative Backmapping of Macromolecules</td>
+        <td>Generative acceleration of molecular dynamics simulations for solid-state electrolytes</td>
     </tr>
     <tr>
-        <td>[ Name, Affilitation]</td>
-        <td>[ Name, Affilitation]</td>
-        <td>[ Name, Affilitation]</td>
-        <td>[ Name, Affilitation] <br>
-            [ Name, Affilitation] <br>
-            [ Name, Affilitation]
-        </td>
-        <td>[ Paper, Authors] <br>
-            [ Paper, Authors] <br>
-            [ Paper, Authors]
-        </td>
+        <td>Rafael Josip Penić, Tin Vlašić, Roland G. Huber, Yue Wan, Mile Sikic</td>
+        <td>Michael Jones, Smayan Khanna, Andrew Ferguson</td>
+        <td>Juno Nam, Sulin Liu, Gavin Winter, Rafael Gomez-Bombarelli</td>
     </tr>
 </table>
 </div>
+
+### Best Reviewers
+- Rico Meinl, Retro Biosciences
+
+- John D Boom, Columbia University
+
+- Xinyu Yuan, Université de Montréal
+
+### Best Submissions with Potential Commercial Applications
+- Generative Modeling of Molecular Dynamics Trajectories by Bowen Jing, Hannes Stark, Tommi Jaakkola, Bonnie Berger
+ 
+- A Recipe for Charge Density Prediction by Xiang Fu, Andrew Scott Rosen, Kyle Bystrom, Rui Wang, Albert Musaelian, Boris Kozinsky, Tess Smidt, Tommi Jaakkola
+
+- CodonMPNN for Organism Specific and Codon Optimal Inverse Folding  by Hannes Stark, Umesh Padia, Julia Balla, Cameron Diao
+
+
 
 ## Prizes
 
